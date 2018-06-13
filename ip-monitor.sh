@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author：xschan
+#Author：chan
 #记录文件包含日期标签，防止后面的数据将前面的覆盖
 #创建记录文件
 echo `date`  >/ip-monitor/record.txt
